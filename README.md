@@ -10,6 +10,18 @@
        alt="snake" /></a>
 </div>
 
+
+
+### 🖥 Summary of Skills
+
+- Controls Development
+- Machine Learning
+- Deep Learning
+- Learning-based Control
+
+
+
+
 <!--
 **arash-hashemi1/arash-hashemi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
