@@ -17,10 +17,10 @@ Glad to see you here!
 
 - ### 🖥 Summary of Skills
 
-- Controls Development
-- Machine Learning
-- Deep Learning
-- Learning-based Control
+  . Controls Development
+  . Machine Learning
+  . Deep Learning
+  . Learning-based Control
 
 - ### 💻 Languages
 
