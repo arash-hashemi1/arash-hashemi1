@@ -15,24 +15,24 @@ Glad to see you here!
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Farash-hashemi1%2Farash-hashemi1&countColor=%23263759)
 
-### 🖥 Summary of Skills
+- 🖥 Summary of Skills
 
 - Controls Development
 - Machine Learning
 - Deep Learning
 - Learning-based Control
 
-### 💻 Languages
+- 💻 Languages
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-<br>   
 
 
-### 🛠️ My Tool Kit
 
-### Data and Machine Learning
+- 🛠️ My Tool Kit
+
+- Data and Machine Learning
 - Numpy
 - 
 
