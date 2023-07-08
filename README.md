@@ -20,7 +20,7 @@ Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=
 - Learning-based Control
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arash-hashemi-1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=arash-hashemi1&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
 **arash-hashemi1/arash-hashemi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
