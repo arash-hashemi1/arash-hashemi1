@@ -10,7 +10,7 @@
        alt="snake" /></a>
 </div>
 
-
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 ### 🖥 Summary of Skills
 
@@ -20,7 +20,7 @@
 - Learning-based Control
 
 
-
+### 🖥 Summary of Skills
 
 <!--
 **arash-hashemi1/arash-hashemi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
