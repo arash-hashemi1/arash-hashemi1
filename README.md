@@ -10,7 +10,7 @@
        alt="snake" /></a>
 </div>
 
-Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=arash-hashemi1.arash-hashemi1.git)
+Glad to see you here! ![visitors](https://visitor-badge.glitch.me/badge?page_id=arash-hashemi1/arash-hashemi1.git)
 
 ### 🖥 Summary of Skills
 
