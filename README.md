@@ -17,9 +17,9 @@ Glad to see you here!
 
 - ### 🖥 Summary of Skills
 
-  . Controls Development
   . Machine Learning
   . Deep Learning
+  . Reinforcement Learning
   . Learning-based Control
 
 - ### 💻 Languages
